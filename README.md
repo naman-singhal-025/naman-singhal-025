@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naman-singhal-025
 - 👀 I’m interested in Android development
-- 🌱 I’m currently learning Java and Adndroid development
+- 🌱 I’m currently learning Java and Android development
 - 💞️ I’m looking to collaborate on Android projects
 - 📫 How to reach me namansinghal025@gmail.com
 
